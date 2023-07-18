@@ -1,0 +1,117 @@
+Digitalmedia - We Take Care of Your Brand
+
+This is a digital marketing agency html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Digitalmedia home
+
+How it Works
+Our Work
+Pricing
+About Us
+
+Try it Now
+
+aria-label = toggle menu
+
+<ion-icon name="menu-outline" aria-hidden="true" class="menu-icon"></ion-icon>
+<ion-icon name="close-outline" aria-hidden="true" class="close-icon"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+We Take Care of Your Brand
+
+Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business.
+
+placeholder = Enter Your Email
+
+Let's Talk
+
+alt = hero banner
+
+alt = YouTube
+alt = Twitter
+alt = Instagram
+
+
+
+#---------- PROCESS ----------#
+
+How It Works
+
+Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business.
+
+alt = process banner
+
+Ideation
+
+Use this section to describe your company and the products you offer. You could share your company’s
+
+Budget
+
+Performance
+
+Speed
+
+
+
+#---------- WORKS ----------#
+
+Our Work
+
+Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business.
+
+alt = Product Design
+
+Product Design
+Use this section to describe your work
+
+alt = App Development
+App Development
+
+alt = Virtual Reality
+Virtual Reality
+
+See More
+
+
+
+#---------- FOOTER ----------#
+
+alt = Digitalmedia home
+
+Los Angeles, California, USA
+
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+
+Contact Us
+
+Work With Us
+Advertise With Us
+Support Us
+Business Advices
+
+Private Coaching
+Our Work
+Our Commitment
+Our Team
+
+About Us
+FAQs
+Report a Bug
+
+&copy; 2023 Digitalmedia, Inc. - Developed By
+
+href = https://www.youtube.com/@codewithsadee
+codewithsadee
+
+Terms of use
+Privacy policy
+
